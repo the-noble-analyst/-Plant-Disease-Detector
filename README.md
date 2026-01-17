@@ -148,9 +148,6 @@ project/
 
 ## Screenshots / Demo
 
-
-## Screenshots / Demo
-
 ### Training Curves
 ![Training Curves](assets/Accuracy_vs_epoch_1.png)
 ![Training Curves](assets/Train_loss_vs_epoch_1.png)
@@ -162,7 +159,7 @@ project/
 ![Confusion Matrix](assets/confusion_matrix_2_after_fine_tuning.png)
 
 ### Streamlit App
-![Streamlit App](assets/streamlit_app.png)
+![Streamlit App](assets/streamlit_plant_app.png)
 
 
 ---
