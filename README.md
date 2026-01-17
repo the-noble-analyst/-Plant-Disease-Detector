@@ -148,23 +148,22 @@ project/
 
 ## Screenshots / Demo
 
-Add screenshots of:
 
-* Training curves
-* Confusion matrix
-* Streamlit app interface
+## Screenshots / Demo
 
-Placeholder:
+### Training Curves
+![Training Curves](assets/Accuracy_vs_epoch_1.png)
+![Training Curves](assets/Train_loss_vs_epoch_1.png)
 
-```text
-[<img width="567" height="455" alt="download" src="https://github.com/user-attachments/assets/a68c3449-dcee-48f3-baa5-8d5752eb4b47" />
-]
-[<img width="576" height="455" alt="download" src="https://github.com/user-attachments/assets/2e7f2764-299a-4223-a9d2-4091698bf02f" />
-]
-[<img width="630" height="595" alt="download" src="https://github.com/user-attachments/assets/6a2c6a3e-fb99-4764-8369-520b076d4689" />
-]
+### Confusion Matrix Before Fine tuning
+![Confusion Matrix](assets/confusion_matrix_1.png)
 
-```
+### Confusion Matrix After Fine tuning
+![Confusion Matrix](assets/confusion_matrix_2_after_fine_tuning.png)
+
+### Streamlit App
+![Streamlit App](assets/streamlit_app.png)
+
 
 ---
 
