@@ -1,0 +1,1 @@
+Link: https://nbviewer.org/github/the-noble-analyst/Plant-Leaf-Disease-Detection-with-PyTorch/blob/main/plant_disease_detector.ipynb
